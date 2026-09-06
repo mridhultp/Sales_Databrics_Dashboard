@@ -10,6 +10,13 @@ Payment Method Breakdown – Displays the percentage contribution of different p
 Interactive Quantity Filter – Users can filter transactions based on quantity to analyze specific transaction ranges.
 Business Insights
 
+
+@echo off
+
+start "" "https://dbc-8bc2ae08-2c2d.cloud.databricks.com/dashboardsv3/01f1a9cb1cdb1515a4b8664760c0644a/published?o=7474651809439000&f_33db4e46%7Ebbcd164a.i=41%7E"
+
+exit
+
 The dashboard can help stakeholders:
 
 Identify top-performing products

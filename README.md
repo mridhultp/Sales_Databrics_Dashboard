@@ -11,11 +11,9 @@ Interactive Quantity Filter – Users can filter transactions based on quantity 
 Business Insights
 
 
-@echo off
+## Dashboard
 
-start "" "https://dbc-8bc2ae08-2c2d.cloud.databricks.com/dashboardsv3/01f1a9cb1cdb1515a4b8664760c0644a/published?o=7474651809439000&f_33db4e46%7Ebbcd164a.i=41%7E"
-
-exit
+[View Sales Transaction Dashboard](https://dbc-8bc2ae08-2c2d.cloud.databricks.com/dashboardsv3/01f1a9cb1cdb1515a4b8664760c0644a/published?o=7474651809439000&f_33db4e46%7Ebbcd164a.i=41%7E)
 
 The dashboard can help stakeholders:
 

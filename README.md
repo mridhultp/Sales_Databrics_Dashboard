@@ -22,3 +22,6 @@ Monitor daily sales trends
 Understand customer payment preferences
 Detect periods of high and low sales activity
 Make better sales and business decisions
+
+<img width="1913" height="778" alt="image" src="https://github.com/user-attachments/assets/d9655873-bd97-4c5c-bdc6-2ff4b1dea1b9" />
+
